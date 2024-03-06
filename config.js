@@ -18,7 +18,7 @@ module.exports = {
 
   voteManager: {
     status: false,
-    api_key: "babd4cd529dc75b186c91f169b3dca71",
+    api_key: "",
     vote_commands: ["back", "channel", "clear", "dj", "filter", "loop", "nowplaying", "pause", "playnormal", "playlist", "queue", "resume", "save", "play", "skip", "stop", "time", "volume"],
     vote_url: "",
   },
