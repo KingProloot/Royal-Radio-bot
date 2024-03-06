@@ -1,10 +1,10 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["336671546003423235", ""],
+  ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  mongodbURL: "mongodb+srv://shiva:shiva@cluster0.do0cdb4.mongodb.net/?retryWrites=true&w=majority",
+  status: 'Royal Radio',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -13,7 +13,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://www.youtube.com/channel/UCovHBGxGMcTcKT_af68H-3w",
   },
 
   voteManager: {
