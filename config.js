@@ -1,6 +1,6 @@
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  TOKEN: "MTE3NDE0NjEyNjMwODQ1ODU4Nw.GND_i-.kvsD7XijJmtgzxujUzMtG3Q7d61emCEK6aNrBs",
+  ownerID: ["336671546003423235", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
@@ -18,7 +18,7 @@ module.exports = {
 
   voteManager: {
     status: false,
-    api_key: "",
+    api_key: "babd4cd529dc75b186c91f169b3dca71",
     vote_commands: ["back", "channel", "clear", "dj", "filter", "loop", "nowplaying", "pause", "playnormal", "playlist", "queue", "resume", "save", "play", "skip", "stop", "time", "volume"],
     vote_url: "",
   },
