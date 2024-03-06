@@ -1,5 +1,5 @@
 module.exports = {
-  TOKEN: "MTE3NDE0NjEyNjMwODQ1ODU4Nw.GND_i-.kvsD7XijJmtgzxujUzMtG3Q7d61emCEK6aNrBs",
+  TOKEN: "",
   ownerID: ["336671546003423235", ""],
   botInvite: "",
   supportServer: "",
